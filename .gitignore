@@ -1,0 +1,6 @@
+bin/
+*.exe
+.env
+.DS_Store
+BRIEF.md
+viz/*.gif
